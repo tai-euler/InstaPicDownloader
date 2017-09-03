@@ -6,7 +6,7 @@ Code is written in python3.
 
 ## how to run: 
 1. ```git clone https://github.com/tai-euler/InstaPicDownloader.git```
-2. ```cd InstaPicDownloader```
+2. ```cd InstaPicDownloader/```
 3. ```python3 instaPicDownloader.py your_url```
 
 ## example: 

@@ -18,6 +18,6 @@ Code is written in python3.
 
 
 
-## troubleshooting: 
+### troubleshooting: 
 1. ```pip3 install bs4```
 2. ```pip3 install requests```

@@ -11,7 +11,8 @@ Code is written in python3.
 
 ## example: 
 1. ```python3 instaPicDownloader.py 'https://www.instagram.com/p/BPXMlaKj88u/?taken-by=wolfiecindy'```
-## output:
+
+output:
 2. ```Downloading from URL: https://www.instagram.com/p/BPXMlaKj88u/?taken-by=wolfiecindy```
 3. ```High quality image downloaded from URL and saved as https://scontent-frt3-1.cdninstagram.com/t51.2885-15/e35/16110655_1661631840796839_4755495280277716992_n.jpg```
 

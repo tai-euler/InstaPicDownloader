@@ -15,3 +15,8 @@ Code is written in python3.
 2. ```Downloading from URL: https://www.instagram.com/p/BPXMlaKj88u/?taken-by=wolfiecindy```
 3. ```High quality image downloaded from URL and saved as https://scontent-frt3-1.cdninstagram.com/t51.2885-15/e35/16110655_1661631840796839_4755495280277716992_n.jpg```
 
+
+
+## troubleshooting: 
+1. ```pip3 install bs4```
+2. ```pip3 install requests```

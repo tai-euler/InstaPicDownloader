@@ -5,9 +5,9 @@ Code is written in python3.
 <img src="https://scontent-frt3-1.cdninstagram.com/t51.2885-15/e35/16110655_1661631840796839_4755495280277716992_n.jpg" alt="wolfiecindysmile" style="width:304px;height:228px;">
 
 ## how to run: 
-```git clone https://github.com/tai-euler/InstaPicDownloader.git```
-```cd InstaPicDownloader```
-```python3 instaPicDownloader.py your_url```
+1. ```git clone https://github.com/tai-euler/InstaPicDownloader.git```
+2. ```cd InstaPicDownloader```
+3. ```python3 instaPicDownloader.py your_url```
 
 ## example: 
 1. ```python3 instaPicDownloader.py 'https://www.instagram.com/p/BPXMlaKj88u/?taken-by=wolfiecindy'```

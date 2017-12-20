@@ -1,7 +1,7 @@
 # InstaPicDownloader
 Download high quality Instagram pictures. 
 Tested on Ubuntu 16.04.3. 
---> Python3.
+Compiler: Python3.
 
 <img src="https://scontent-frt3-1.cdninstagram.com/t51.2885-15/e35/16110655_1661631840796839_4755495280277716992_n.jpg" alt="wolfiecindysmile" style="width:304px;height:228px;">
 
